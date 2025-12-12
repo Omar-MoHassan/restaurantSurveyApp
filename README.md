@@ -1,6 +1,6 @@
 # restaurant_user_app
 
-A new Flutter project.
+A simple Flutter app for collecting restaurant feedback. Users can select meals, rate different categories, and add text or voice comments. Built with GetX and Supabase.
 
 ## Getting Started
 
